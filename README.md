@@ -34,10 +34,26 @@ Finally, the model can be comiled and quantised using the following command:
 ```
 ./convert --model-name Fall-with-shift \
            --platform onnx \
-           --model ./20jun/opset7.onnx \
+           --model ./opset7.onnx \
            --mean-values '128 128 128 0.0078125' \
            --quantized-dtype asymmetric_affine \
            --source-files ./dataset.txt \
            --kboard VIM3 --print-level 1
 ```
-The dataset file contains space seperated inputs, in this case the 11 inputs required by the model.
+The dataset file contains space seperated inputs, in this case the 11 inputs required by the fall detection model.
+example:
+```
+./data/raw_data_100.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+
+```
+For a simplified model with only one input and output use the following command:
+```
+./convert --model-name mobilnet-v2-simple \
+           --platform onnx \
+           --model /mobilenet_v2_0619.onnx \
+           --mean-values '128 128 128 0.0078125' \
+           --quantized-dtype asymmetric_affine \
+           --source-files ./simplified/dataset_simple.txt \
+           --kboard VIM3 --print-level 1
+```
+
