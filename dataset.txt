@@ -1,0 +1,14 @@
+./data/raw_data_100.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_101.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_102.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_103.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_104.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_105.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_106.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_107.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_108.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_109.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_110.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_111.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_112.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_113.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
