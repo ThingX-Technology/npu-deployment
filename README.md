@@ -67,6 +67,10 @@ example of simplified dataset
 ```
 Documentation for conversion is found the aml_npu_sdk repo
 
+Conversion results in nb file and an SO library, both required for inference.
+
+COnversion of 21Jun.pth is provided in fall-with-shift folder
+
 ## Links
 https://docs.khadas.com/products/sbc/vim3/npu/start
 https://www.zhihu.com/tardis/zm/art/431376048?source_id=1003 
