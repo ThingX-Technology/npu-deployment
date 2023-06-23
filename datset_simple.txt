@@ -1,0 +1,7 @@
+./data/raw_data_100.png
+./data/raw_data_101.png
+./data/raw_data_102.png
+./data/raw_data_103.png
+./data/raw_data_104.png
+./data/raw_data_105.png
+./data/raw_data_106.png
