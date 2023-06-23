@@ -22,10 +22,9 @@ git clone https://github.com/khadas/ksnn.git
 $ pip3 install matplotlib
 $ pip3 install ksnn/ksnn-1.3-py3-none-any.whl
 ```
-
+Run examples provided in the examples folder for NPU usage
 
 ## Docs
 
-1. [KSNN Usage](https://docs.khadas.com/linux/vim3/KSNNUsage.html)
-2. [KSNN Convert](https://docs.khadas.com/linux/vim3/KSNNConvert.html)
+1. [KSNN Usage](https://docs.khadas.com/products/sbc/vim3/npu/ksnn/ksnn-usage)
 3. API Docs: docs/ksnn_user_usage_v1.3.pdf
