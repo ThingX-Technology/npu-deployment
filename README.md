@@ -1,6 +1,6 @@
 # NPU deployment on Khadas VIM3 NPU
 
-Deploying models on the VIM3 requires the use of KSNN, Khadas Software Neural Network. 
+Deploying models on the VIM3 requires the use of KSNN, Khadas Software Neural Network and the accompanying SDK. 
 
 First clone the model conversion tool and enter the python directory:
 ```
@@ -65,3 +65,9 @@ example of simplified dataset
 ./data/raw_data_102.png
 ./data/raw_data_103.png
 ```
+Documentation for conversion is found the aml_npu_sdk repo
+
+## Links
+https://docs.khadas.com/products/sbc/vim3/npu/start
+https://www.zhihu.com/tardis/zm/art/431376048?source_id=1003 
+https://docs.khadas.com/products/sbc/vim3/npu/npu-performance
