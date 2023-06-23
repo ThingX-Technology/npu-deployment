@@ -29,6 +29,11 @@ The next step is to convert the model to ONNX as an intermediary format using th
 ```
 python3 torch2onnx.py
 ```
+Check model using netron for input and output issues
+```
+netron opset7.onnx
+```
+![netron](netron.png)
 
 Finally, the model can be comiled and quantised using the following command:
 ```
@@ -65,6 +70,10 @@ example of simplified dataset
 ./data/raw_data_102.png
 ./data/raw_data_103.png
 ```
+Result should be similar to below:
+
+![conversion](convert.png)
+
 Documentation for conversion is found the aml_npu_sdk repo
 
 Conversion results in nb file and an SO library, both required for inference.
