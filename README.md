@@ -44,7 +44,9 @@ The dataset file contains space seperated inputs, in this case the 11 inputs req
 example:
 ```
 ./data/raw_data_100.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
-
+./data/raw_data_101.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_102.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
+./data/raw_data_103.png ./data/black1.jpg ./data/black2.jpg ./data/black3.jpg ./data/black4.jpg ./data/black5.jpg ./data/black6.jpg ./data/black7.jpg ./data/black8.jpg ./data/black9.jpg ./data/black10.jpg
 ```
 For a simplified model with only one input and output use the following command:
 ```
@@ -56,4 +58,10 @@ For a simplified model with only one input and output use the following command:
            --source-files ./simplified/dataset_simple.txt \
            --kboard VIM3 --print-level 1
 ```
-
+example of simplified dataset
+```
+./data/raw_data_100.png
+./data/raw_data_101.png
+./data/raw_data_102.png
+./data/raw_data_103.png
+```
