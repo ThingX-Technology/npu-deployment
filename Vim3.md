@@ -1,4 +1,4 @@
-#NPU setup
+# NPU setup
 
 1. First, you'll need to download the latest firmware for your VIM3 board from the Khadas website.
 2. Once you've downloaded the firmware, extract the files and copy them onto a mi.croSD card using balendaEtcher
