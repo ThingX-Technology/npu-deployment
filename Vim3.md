@@ -11,9 +11,13 @@
 
 EMMC boot is also possible:
  https://docs.khadas.com/products/sbc/vim3/install-os/start
+USB boot has issues, prefer to use SD or EMMC boot
+
+## Test NPU
 
  ```sh
 git clone https://github.com/khadas/ksnn.git
+cd ksnn
 ```
 
 2. Install KSNN
@@ -24,6 +28,10 @@ $ pip3 install ksnn/ksnn-1.3-py3-none-any.whl
 ```
 Run examples provided in the examples folder for NPU usage
 
+```
+cd examples/onnx
+python3 resnet50.py --model ./models/VIM3/resnet50.nb --library ./libs/libnn_resnet50.so --picture ./data/goldfish_224x224.jpg --level 0
+```
 ## Docs
 
 1. [KSNN Usage](https://docs.khadas.com/products/sbc/vim3/npu/ksnn/ksnn-usage)
